@@ -1,13 +1,10 @@
 
 <div align="center">
-<h3>
- I’m currently working on CrossGeo a company I made with my college professor
-</h3> 
  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Quotes"/>
 </div>
 
-
+<!--
 <div align="center">
   <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -59,7 +56,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-</div>
+</div> -->
 
 <!--
 # 📊 GitHub Stats:
